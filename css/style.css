@@ -1,0 +1,50 @@
+body {
+	padding: 20px 10px;
+	font-family:Times New Roman;
+} 
+div{font-size: 20px;
+	line-height: 44px; }
+h1 {
+	text-align: center; 
+	color: black;
+  font-size: 50px;
+}
+p {
+  margin: 20px 0;
+}
+.summary {
+	background-color: #696969;
+	border-radius: 20px;
+	color: black;
+	padding: 10px;
+	margin: 10px auto;
+}
+.header {
+	background-color: #294860;
+	border-radius: 20px;
+	color: white;
+	padding: 10px;
+	margin: 10px auto;
+}
+.next {
+	background-color: #4682b4;
+	border-radius: 20px;
+	color: black;
+	padding: 10px;
+  margin: 10px auto; 
+}
+.jobaid {
+	background-color: #4682b4;
+	border-radius: 20px;
+	color: black;
+	padding: 10px;
+  margin: 10px auto;
+}
+.text{
+ text-align: left;
+	color: black;
+  font-size: 30px; 
+}
+
+
+
